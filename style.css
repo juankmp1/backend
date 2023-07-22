@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    overflow-x: hidden;
+    color: white;
+    background-color: #2C353C;
+}
+
+.center-text { 
+    /*display: flex;*/
+    justify-content: center; /* Centers horizontally */
+    align-items: center;/* Centers vertically */
+    height: 100vh; /* Set the height to the desired value (e.g., full viewport height) */
+    
+}
+
+ 
+
+.center-text .mistake {
+ color: rgb(234, 120, 120);
+ font-weight: bold;
+}
